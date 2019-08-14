@@ -1,1 +1,1 @@
-# express-products-server
+# Express Products Server
