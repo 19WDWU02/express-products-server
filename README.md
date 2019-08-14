@@ -1,6 +1,6 @@
 # Express Products Server
 
-Create a new express server that is going to filter out products from a list of json. 
+Create a new express server that is going to filter out products from a list of json.  
 Your server needs to include at least these filters  
 
 1. All Products
@@ -10,10 +10,10 @@ Your server needs to include at least these filters
 5. Min & Max Price
 6. Search the name
 
-**Extra** Combine In stock, min price, max price and name serach together to create one long filter.  
+**Extra** Combine In stock, min price, max price and name search together to create one long filter.  
 
 ## Available Endpoints
 | Option | URL | Valid Endpoints |
 | ------ | ------ | ------ |
-| All Products | \all | |
-| In Stock | \instock=:*value* | yes, no|
+| All Products | /all | |
+| In Stock | /instock=:*value* | yes, no|
