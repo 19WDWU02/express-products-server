@@ -1,6 +1,6 @@
 # Express Products Server
 
-Create a new express server that is going to filter out products from a list of json for products.  
+Create a new express server that is going to filter out products from a list of json. 
 Your server needs to include at least these filters  
 
 1. All Products
