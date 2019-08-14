@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/19WDWU02/express-products-server/issues"
   },
-  "homepage": "https://github.com/19WDWU02/express-products-server#readme"
+  "homepage": "https://github.com/19WDWU02/express-products-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
